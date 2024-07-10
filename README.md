@@ -1,1 +1,1 @@
-# GroupWishChatService_signalR
+# SignalR-GroupWise-ChatService
